@@ -1,0 +1,15 @@
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+D:\YashLearn\Asp.NetCoreWebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

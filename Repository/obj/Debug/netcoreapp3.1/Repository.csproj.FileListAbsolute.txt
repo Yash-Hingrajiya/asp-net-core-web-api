@@ -1,0 +1,15 @@
+D:\YashLearn\Asp.NetCoreWebApi\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+D:\YashLearn\Asp.NetCoreWebApi\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+D:\YashLearn\Asp.NetCoreWebApi\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\YashLearn\Asp.NetCoreWebApi\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+D:\YashLearn\Asp.NetCoreWebApi\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+D:\YashLearn\Asp.NetCoreWebApi\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+D:\YashLearn\Asp.NetCoreWebApi\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\YashLearn\Asp.NetCoreWebApi\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+D:\YashLearn\Asp.NetCoreWebApi\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\YashLearn\Asp.NetCoreWebApi\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+D:\YashLearn\Asp.NetCoreWebApi\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+D:\YashLearn\Asp.NetCoreWebApi\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+D:\YashLearn\Asp.NetCoreWebApi\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+D:\YashLearn\Asp.NetCoreWebApi\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+D:\YashLearn\Asp.NetCoreWebApi\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
